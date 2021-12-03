@@ -1,5 +1,5 @@
 # All of art
-남녀노소 모두에게 **미술에 대한 흥미**를 불러 일으키고, **학습 동기 유발**을 위한 서비스 입니다.
+남녀노소 모두에게 **미술에 대한 흥미**를 불러 일으키고, **학습 동기 유발**을 위한 서비스
 
 ## 1. 프로젝트 소개
 ### 프로젝트 개요
@@ -39,6 +39,8 @@
 ### API
 [API 명세](http://elice-kdt-2nd-team1.koreacentral.cloudapp.azure.com:5000/docs#/)
 
+### 와이어 프레임
+[와이어프레임 - Figma 이동](https://www.figma.com/file/VJbmREbSnjNw92ftBBNQQ7/All-of-Art-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1)
 ## 4. 프로젝트 팀원 역할 분담
 | 이름 | 역할 | 담당 부분 |
 | ------ | ------ | ------ |
