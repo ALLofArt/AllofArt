@@ -32,9 +32,9 @@
 
 ## 3. 프로젝트 구성도
 ### Architecture
-![Architecture](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f4462cbc-c57a-43ec-bfb6-5002f508cb1c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T231632Z&X-Amz-Expires=86400&X-Amz-Signature=e5e1e7f1f74167c3e25e62797adb590db1b5f772f115e7f421c2074f1bada31b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Architecture](/uploads/7a5c8af27f9ed6097e6ff2bddfce23be/Architecture.png)
 ### ERD
-![ERD](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2f74adee-3149-44db-bd53-87e66fbfe5a3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T231709Z&X-Amz-Expires=86400&X-Amz-Signature=8ae6b16366e55ed7d2ca8c010a5e7ab001b5d3977c4ba417e85c10efba3b33b2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![ERD](/uploads/0d8e5e508f2a419ca65b1d11e6b3a221/ERD.png)
 
 ### API
 [API 명세](http://elice-kdt-2nd-team1.koreacentral.cloudapp.azure.com:5000/docs#/)
