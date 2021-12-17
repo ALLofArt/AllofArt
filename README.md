@@ -1,5 +1,10 @@
 # All of art
 남녀노소 모두에게 **미술에 대한 흥미**를 불러 일으키고, **학습 동기 유발**을 위한 서비스
+## Repository 
+- [Sever_Repository](https://github.com/ALLofArt/server)
+- [Client_Repository](https://github.com/ALLofArt/client)
+
+
 
 ## 1. 프로젝트 소개
 ### 프로젝트 개요
@@ -32,9 +37,10 @@
 
 ## 3. 프로젝트 구성도
 ### Architecture
-![Architecture](/uploads/7a5c8af27f9ed6097e6ff2bddfce23be/Architecture.png)
+![image](https://user-images.githubusercontent.com/76929823/146011731-0ce333ca-a203-4e3c-81bc-948988e88ba6.png)
 ### ERD
-![ERD](/uploads/0d8e5e508f2a419ca65b1d11e6b3a221/ERD.png)
+![image](https://user-images.githubusercontent.com/76929823/146351874-3799ad06-6d6a-4eeb-b0a8-88b0d6842167.png)
+
 
 ### API
 [API 명세](http://elice-kdt-2nd-team1.koreacentral.cloudapp.azure.com:5000/docs#/)
