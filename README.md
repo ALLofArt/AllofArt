@@ -39,8 +39,8 @@
 ### Architecture
 ![image](https://user-images.githubusercontent.com/76929823/146011731-0ce333ca-a203-4e3c-81bc-948988e88ba6.png)
 ### ERD
-![image](https://user-images.githubusercontent.com/76929823/146351874-3799ad06-6d6a-4eeb-b0a8-88b0d6842167.png)
 
+![image](https://user-images.githubusercontent.com/76929823/152673999-6952fc4e-6751-4fcc-9ddd-470fd196952a.png)
 
 ### API
 [API 명세](http://elice-kdt-2nd-team1.koreacentral.cloudapp.azure.com:5000/docs#/)
